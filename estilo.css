@@ -1,0 +1,29 @@
+body{
+    background-color: #2D8652;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 52px;
+    text-transform: capitalize;
+}
+p{
+    font-size: 23px;
+}
+p.infancia{
+    color: white;
+    font-family: serif;
+    font-style: italic;
+}
+p.animal{
+    color: rgb(189, 168, 133);
+    font-family: sans-serif;
+}
+p.literatura{
+    color: rgb(240, 153, 33);
+    font-family: monospace;
+    font-size: 27px;
+}
+p.numeros{
+    color: rgb(235, 26, 78);
+    font-family: cursive;
+}
